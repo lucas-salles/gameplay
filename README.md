@@ -20,7 +20,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## Rodando o Projeto
 
-Para clonar e executar esta aplicação, você precisará de [Git](https://git-scm.com/), [Node.js](https://nodejs.org/en/) + [Yarn](https://yarnpkg.com/) e [Expo](https://expo.io/) instalados na sua máquina. Da sua linha de comando execute:
+Para executar esta aplicação, você precisará de [Git](https://git-scm.com/), [Node.js](https://nodejs.org/en/) + [Yarn](https://yarnpkg.com/) e [Expo](https://expo.io/) instalados na sua máquina. Da sua linha de comando execute:
 
 ```bash
 # Clone este repositório
